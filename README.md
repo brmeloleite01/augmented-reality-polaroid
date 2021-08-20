@@ -1,2 +1,2 @@
 # augmented-reality-polaroid
-Like a Harry Potter newspaper 
+It's like a Harry Potter newspaper
